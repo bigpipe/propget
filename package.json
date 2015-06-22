@@ -1,0 +1,29 @@
+{
+  "name": "propget",
+  "version": "1.0.0",
+  "description": "Use dot notation to get properties from deeply nested object and array structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigpipe/propget.git"
+  },
+  "keywords": [
+    "prop",
+    "property",
+    "get"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigpipe/propget/issues"
+  },
+  "homepage": "https://github.com/bigpipe/propget#readme",
+  "devDependencies": {
+    "assume": "1.2.x",
+    "mocha": "2.2.x",
+    "pre-commit": "1.0.x"
+  }
+}
