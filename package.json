@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/bigpipe/propget#readme",
   "devDependencies": {
-    "assume": "1.2.x",
-    "mocha": "2.2.x",
-    "pre-commit": "1.0.x"
+    "assume": "~1.4.1",
+    "mocha": "~3.1.2",
+    "pre-commit": "~1.1.3"
   }
 }
